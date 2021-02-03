@@ -49,5 +49,4 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmogensen%2Fkubernetes-split-yaml.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmogensen%2Fkubernetes-split-yaml?ref=badge_large)
